@@ -17,7 +17,7 @@ package integration;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
-import org.lesscss.LessException;
+import com.acme.lesscss.LessException;
 
 public class LessExceptionIT extends AbstractCompileIT {
 

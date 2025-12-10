@@ -23,7 +23,7 @@ import java.net.URL;
 import org.apache.commons.io.FileUtils;
 import org.junit.Before;
 
-import org.lesscss.LessCompiler;
+import com.acme.lesscss.LessCompiler;
 
 public abstract class AbstractCompileIT {
 
